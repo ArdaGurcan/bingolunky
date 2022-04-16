@@ -7,7 +7,7 @@ class Board extends Component {
           return (
               <div
                   key={i}
-                  className={"cell " + (task.done ? "done" : "")}
+                  className={"cell " + (task.state === 2 ? "ignored": "") + (task.state === 1 ? "done": "")}
                   onClick={() => this.props.toggleTask(i)}
               >
                   {task.name}

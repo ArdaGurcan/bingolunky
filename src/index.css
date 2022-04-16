@@ -34,6 +34,10 @@ h1 {
   background-color: #16db93;
   color: #54478c;
 }
+.ignored {
+  background-color: #db3a16;
+  /* color: #54478c; */
+}
 
 
 .cell {
