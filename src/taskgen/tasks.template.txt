@@ -15,8 +15,8 @@ Give {weapon} to Caveman
 Give {throwable} to Caveman
 Finish {place} without picking up gold
 Finish {place} without killing enemies
-Drop {backpack} at {monster}
-Drop {backpack} at {npc}
+Drop {backpack} on {monster}
+Drop {backpack} on {npc}
 Drop {corpse} in lava
 Drop {throwable} in lava
 Drop {corpse} in ice caves void
