@@ -1,0 +1,23 @@
+Attack {npc} with {weapon}
+Feed {corpse} to Mantrap
+Get {score}
+Kill {npc}
+Kill {npc} with {weapon}
+Kill {npc} with {weapon}
+Obtain {item}
+Obtain {ushabti_description} {ushabti_material} {ushabti_symbol} Ushabti
+Put {throwable}
+Sacrifice {sacrificable} at the Kali altar
+Throw {throwable} at {npc}
+{quest}
+Give {backpack} to Caveman
+Give {weapon} to Caveman
+Give {throwable} to Caveman
+Finish {place} without picking up gold
+Finish {place} without killing enemies
+Drop {backpack} at {monster}
+Drop {backpack} at {npc}
+Drop {corpse} in lava
+Drop {throwable} in lava
+Drop {corpse} in ice caves void
+Drop {throwable} in ice caves void
