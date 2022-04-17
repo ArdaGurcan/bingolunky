@@ -1,4 +1,4 @@
-export const TASKS = 
+export const TASKS = [
   "Attack Hired Hand with Webgun",
   "Attack Hired Hand with Shotgun",
   "Attack Hired Hand with Freeze Ray",
@@ -1023,8 +1023,8 @@ export const TASKS =
   "Throw Chest at Sparrow",
   "Throw Chest at Beg",
   "Throw Chest at Eggplant King",
-  "Rescue Yang turkeys",
-  "Buy out Yang turkey shop",
+  "Rescue Yang's turkeys",
+  "Buy out Yang's turkey shop",
   "Rescue Parsley",
   "Rescue Parsnip",
   "Rescue Parmesan",
@@ -1674,10 +1674,7 @@ export const TASKS =
   "Drop Chest in ice caves void",
   "Clone yourself",
   "Kill Eggplant King as Tina",
-  "Complete Yang's Quest",
-  "Complete Sparrow's Quest",
-  "Complete Van Horsing's Quest",
-  "Enter Tusk's Palace as a VIP",
+  "Meet Sparrow as Dirk"
   "Complete an Any% run",
 "Complete a Sunken City% run",
 "Complete a Cosmic Ocean% run",
