@@ -21,3 +21,5 @@ Drop {corpse} in lava
 Drop {throwable} in lava
 Drop {corpse} in ice caves void
 Drop {throwable} in ice caves void
+Complete {category} run
+{special}

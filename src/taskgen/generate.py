@@ -53,16 +53,15 @@ def generate_permutations(classes: Classes, task: str) -> List[str]:
 
 
 if __name__ == '__main__':
-
 	# TODO
 	# associate difficulty value with each class member
 	# make a function to calculate combined difficulty value for each permutation
 	# group tasks by difficulty value in three groups
-
-	classes = classes_load('classes')
+	PATH = os.path.dirname(os.path.abspath(__file__))
+	classes = classes_load(PATH + '/classes')
 	tasks = []
 
-	file = 'tasks.template.txt'
+	file = PATH + '/tasks.template.txt'
 
 	if sys.argv[1:]:
 		file = sys.argv[1]

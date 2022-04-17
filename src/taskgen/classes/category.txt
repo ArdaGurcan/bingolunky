@@ -1,0 +1,89 @@
+Any%
+Sunken City%
+Cosmic Ocean%
+Low%
+Low% Jungle/Temple
+Pacifist Low%
+No Teleporter Any%
+No Teleporter Sunken City%
+No Teleporter Eggplant%
+No Gold
+No Gold Low%
+Abzu%
+Duat%
+No Teleporter Abzu%
+No Teleporter Duat%
+Chain Low% Abzu
+Chain Low% Duat
+Low% Volcana/Temple
+Low% Sunken City
+No Gold Low% Sunken City
+No Teleporter No Gold
+No Gold Sunken City%
+No Teleporter No Gold Sunken City%
+No Gold Abzu%
+No Gold Duat%
+No Gold Chain Low% Abzu
+No Gold Chain Low% Duat
+Eggplant%
+Low% Eggplant
+No Gold Eggplant%
+No Gold Low% Eggplant
+No Teleporter No Gold Eggplant%
+Eggplant% Abzu
+Eggplant% Duat
+No Teleporter Eggplant% Abzu
+No Teleporter Eggplant% Duat
+Chain Low% Eggplant Abzu
+Chain Low% Eggplant Duat
+No Gold Chain Low% Eggplant Abzu
+No Gold Chain Low% Eggplant Duat
+Millionaire
+No Teleporter Millionaire
+Low% Millionaire
+No%
+No% Sunken City
+Tutorial%
+Tutorial% No Skips
+Ice Caves Shortcut%
+Pacifist Ice Caves Shortcut%
+Ice Caves Shortcut% Millionaire
+Ice Caves Shortcut Sunken City%
+Pacifist
+Pacifist Sunken City%
+Pacifist Low%
+No Teleporter Pacifist
+No Teleporter Pacifist Sunken City%
+No Gold Pacifist
+No Gold Pacifist Sunken City%
+No Gold Pacifist Low%
+Pacifist Low% Sunken City
+No Gold Pacifist Low% Sunken City
+Pacifist Abzu%
+Pacifist Duat%
+Pacifist Chain Low% Abzu
+Pacifist Chain Low% Duat
+No Gold Pacifist Chain Low% Abzu
+No Gold Pacifist Chain Low% Duat
+Pacifist Eggplant%
+Pacifist Low% Eggplant
+No Gold Pacifist Eggplant%
+No Gold Pacifist Low% Eggplant
+Pacifist Chain Low% Eggplant Abzu
+Pacifist Chain Low% Eggplant Duat
+No Gold Pacifist Chain Low% Eggplant Abzu
+No Gold Pacifist Chain Low% Eggplant Duat
+Pacifist No%
+Pacifist No% Sunken City
+Pacifist Ice Caves Shortcut%
+Pacifist Ice Caves Shortcut Sunken City%
+Ice Caves Shortcut Any%
+Crushabti%
+Axolotl%
+Turkey%
+Slow%
+True Crown Low%
+Keyamat
+Rope%
+Ice Caves Shortcut Eggplant%
+Legendary Meal%
