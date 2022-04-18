@@ -3,7 +3,6 @@ Feed {corpse} to Mantrap
 Get {score}
 Kill {npc}
 Kill {npc} with {weapon}
-Kill {npc} with {weapon}
 Obtain {item}
 Obtain {ushabti_description} {ushabti_material} {ushabti_symbol} Ushabti
 Put {throwable}
@@ -21,5 +20,7 @@ Drop {corpse} in lava
 Drop {throwable} in lava
 Drop {corpse} in ice caves void
 Drop {throwable} in ice caves void
+Telefrag {npc}
+Telefrag {monster}
 Complete {category} run
 {special}
