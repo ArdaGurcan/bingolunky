@@ -1940,4 +1940,5 @@ export const TASKS = [
   "Kill Eggplant King as Tina",
   "Meet Sparrow as Dirk",
   "Ride the boulder for 5 seconds",
+  "Do the stupid jump",
 ];
