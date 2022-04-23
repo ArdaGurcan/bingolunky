@@ -1,6 +1,6 @@
-Cape
-Vlad's Cape
-Jetpack
-Telepack
-Hoverpack
-Powerpack
+Cape:2
+Vlad's Cape:6
+Jetpack:8
+Telepack:8
+Hoverpack:8
+Powerpack:8

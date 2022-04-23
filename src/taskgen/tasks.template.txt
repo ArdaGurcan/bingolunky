@@ -1,26 +1,45 @@
-Attack {npc} with {weapon}
+# Generic tasks
+# TODO: make hardcoded list of impossible permutations
+Attack {npc:0.7} with {weapon:0.3}
 Feed {corpse} to Mantrap
 Get {score}
 Kill {npc}
-Kill {npc} with {weapon}
-Obtain {item}
-Obtain {ushabti_description} {ushabti_material} {ushabti_symbol} Ushabti
-Put {throwable}
+Kill {npc:0.7} with {weapon:0.3}
+Pick up {item}
+Grab {ushabti_description} {ushabti_material} {ushabti_symbol} Ushabti:4
+Put {throwable} in Waddler
 Sacrifice {sacrificable} at the Kali altar
-Throw {throwable} at {npc}
-{quest}
+Throw {throwable:0.3} at {npc:0.7}
 Give {backpack} to Caveman
 Give {weapon} to Caveman
 Give {throwable} to Caveman
 Finish {place} without picking up gold
 Finish {place} without killing enemies
-Drop {backpack} on {monster}
-Drop {backpack} on {npc}
+Drop {backpack:0.4} on {monster:0.6}
+Drop {backpack:0.4} on {npc:0.6}
 Drop {corpse} in lava
 Drop {throwable} in lava
 Drop {corpse} in ice caves void
 Drop {throwable} in ice caves void
 Telefrag {npc}
 Telefrag {monster}
-Complete {category} run
-{special}
+
+# people cant be bothered to do actual categories in a fucking BINGO
+# Complete {category} run
+
+# Unique tasks
+Clone yourself:7
+Kill Eggplant King as Tina:10
+Meet Sparrow as Dirk:5
+Ride the boulder for 5 seconds:7
+Do a coyote jump in Dwelling: 5
+Rescue Yang's turkeys:4
+Buy out Yang's turkey shop:6
+Rescue Parsley:3
+Rescue Parsnip:3
+Rescue Parmesan:3
+Rescue all salad sisters and meet them at Olmec:4
+Rescue Van Horsing:3
+Return metal arrow to Van Horsing:4
+Meet Madame Tusk in Palace of Pleasure:6
+Get rope bag from Sparrow in Palace of Pleasure:9

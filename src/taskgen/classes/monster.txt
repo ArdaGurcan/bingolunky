@@ -1,62 +1,62 @@
-Snake
-Spider
-Bat
-Caveman
-Skeleton
-Horned Lizard
-Cave Mole
-Quillback
-Mantrap
-Tiki Man
-Witch Doctor
-Mosquito
-Monkey
-Hang Spider
-Giant Spider
-Fire Bug
-Imp
-Vampire
-Vlad
-Jiangshi
-Jiangshi Assassin
-Flying Fish
-Octopy
-Hermit Crab
-Pangxie
-Great Humphead
-Crocman
-Cobra
-Mummy
-Sorceress
-Cat Mummy
-Necromancer
-Anubis
-UFO
-Alien
-Yeti
-Yeti King
-Yeti Queen
-Lahamu
-Olmite
-Lamassu
-Tiamat
-Tadpole
-Frog
-Fire Frog
-Goliath Frog
-Grub
-Giant Fly
-Hundun
-Eggplant Minister
-Eggplup
-Scorpion
-Bee
-Queen Bee
-Scarab
-Golden Monkey
-Leprechaun
-Pet
-Cave Turkey
-Rock Dog
-Axolotl
-Qilin
+Snake:1
+Spider:1
+Bat:1
+Caveman:2
+Skeleton:1
+Horned Lizard:2
+Cave Mole:2
+Quillback:3
+Mantrap:3
+Tiki Man:3
+Witch Doctor:4
+Mosquito:3
+Monkey:2
+Hang Spider:4
+Giant Spider:5
+Fire Bug:3
+Imp:3
+Vampire:4
+Vlad:6
+Jiangshi:3
+Jiangshi Assassin:3
+Flying Fish:3
+Octopy:3
+Hermit Crab:3
+Pangxie:5
+Great Humphead:6
+Crocman:5
+Cobra:4
+Mummy:6
+Sorceress:4
+Cat Mummy:4
+Necromancer:5
+Anubis:8
+UFO:4
+Alien:4
+Yeti:4
+Yeti King:7
+Yeti Queen:6
+Lahamu:10
+Olmite:5
+Lamassu:6
+Tiamat:8
+Tadpole:8
+Frog:5
+Fire Frog:6
+Goliath Frog:10
+Grub:6
+Giant Fly:7
+Hundun:10
+Eggplant Minister:10
+Eggplup:10
+Scorpion:5
+Bee:6
+Queen Bee:8
+Scarab:2
+Golden Monkey:5
+Leprechaun:6
+Pet:1
+Cave Turkey:2
+Rock Dog:4
+Axolotl:6
+Qilin:10

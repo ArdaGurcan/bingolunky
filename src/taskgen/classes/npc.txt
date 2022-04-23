@@ -1,17 +1,17 @@
-Hired Hand
-Eggplant Child
-Shopkeeper
-Tun
-Yang
-Madame Tusk
-Tusk's Bodyguard
-Waddler
-Caveman Shopkeeper
-Ghist Shopkeeper
-Van Horsing
-Parsley
-Parsnip
-Parmesan
-Sparrow
-Beg
-Eggplant King
+Hired Hand:1
+Eggplant Child:10
+Shopkeeper:2
+Tun:3
+Yang:3
+Madame Tusk:5
+Tusk's Bodyguard:5
+Waddler:5
+Caveman Shopkeeper:6
+Ghist Shopkeeper:6
+Van Horsing:6
+Parsley:4
+Parsnip:4
+Parmesan:4
+Sparrow:6
+Beg:8
+Eggplant King:10
