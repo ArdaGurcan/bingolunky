@@ -1,22 +1,22 @@
-Hired Hand
-Eggplant Child
-Shopkeeper
-Tun
-Yang
-Caveman
-Cave Mole
-Tiki Man
-Witch Doctor
-Octopy
-Hermit Crab
-Crocman
-Sorceress
-Necromancer
-Yeti
-Olmite
-Leprechaun
-Pet
-Cave Turkey
-Rock Dog
-Axolotl
-Qilin
+Hired Hand:5
+Eggplant Child:10
+Shopkeeper:2
+Tun:4
+Yang:2
+Caveman:2
+Cave Mole:2
+Tiki Man:2
+Witch Doctor:4
+Octopy:4
+Hermit Crab:4
+Crocman:6
+Sorceress:5
+Necromancer:5
+Yeti:5
+Olmite:5
+Leprechaun:8
+Pet:1
+Cave Turkey:4
+Rock Dog:6
+Axolotl:8
+Qilin:10

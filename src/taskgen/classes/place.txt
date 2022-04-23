@@ -1,16 +1,16 @@
-Dwelling
-Jungle
-Volcana
-Olmec's Lair
-Tide Pool
-Abzu
-Temple of Anubis
-The City of Gold
-Duat
-Ice Caves
-Neo Babylon
-Tiamat's Throne
-Sunken City
-Eggplant World
-Hundun's Hideaway
-Cosmic Ocean
+Dwelling:1
+Jungle:2
+Volcana:2
+Olmec's Lair:3
+Tide Pool:4
+Abzu:5
+Temple of Anubis:5
+The City of Gold:6
+Duat:7
+Ice Caves:6
+Neo Babylon:7
+Tiamat's Throne:8
+Sunken City:9
+Eggplant World:10
+Hundun's Hideaway:10
+Cosmic Ocean:10

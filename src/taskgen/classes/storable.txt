@@ -1,14 +1,14 @@
-Crossbow
-Hou Yi's Bow
-Wooden Shield
-Metal Shield
-Idol
-Eggplant
-Gold Key
-Metal Key
-Stone Arrow
-Metal Arrow
-Broken Arrow
-Torch
-Dice
-Crate
+Crossbow:2
+Hou Yi's Bow:3
+Wooden Shield:2
+Metal Shield:5
+Idol:6
+Eggplant:8
+Gold Key:2
+Metal Key:2
+Stone Arrow:1
+Metal Arrow:2
+Broken Arrow:1
+Torch:2
+Dice:6
+Crate:10

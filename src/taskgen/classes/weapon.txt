@@ -1,14 +1,14 @@
-Webgun
-Shotgun
-Freeze Ray
-Clone Gun
-Crossbow
-Camera
-Boomerang
-Machete
-Excalibur
-Broken Sword
-Plasma Cannon
-Scepter
-Hou Yi's Bow
-Eggplant
+Webgun:2
+Shotgun:1
+Freeze Ray:4
+Clone Gun:7
+Crossbow:2
+Camera:3
+Boomerang:2
+Machete:4
+Excalibur:8
+Broken Sword:10
+Plasma Cannon:10
+Scepter:10
+Hou Yi's Bow:4
+Eggplant:10

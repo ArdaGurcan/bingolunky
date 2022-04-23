@@ -1,22 +1,21 @@
-Crossbow
-Hou Yi's Bow
-Wooden Shield
-Metal Shield
-Idol
-The Tusk Idol
-Curse Pot
-Ushabti
-Eggplant
-Gold Key
-Metal Key
-Stone Arrow
-Metal Arrow
-Broken Arrow
-Torch
-Ball and Chain
-Pot of Gold
-Dice
-Crate
-Present
-Chest
-Ball and Chain
+Crossbow:2
+Hou Yi's Bow:3
+Wooden Shield:2
+Metal Shield:5
+Idol:4
+The Tusk Idol:8
+Curse Pot:1
+Ushabti:6
+Eggplant:8
+Gold Key:2
+Metal Key:2
+Stone Arrow:1
+Metal Arrow:2
+Broken Arrow:1
+Torch:2
+Ball and Chain:8
+Pot of Gold:10
+Dice:8
+Crate:1
+Present:6
+Chest:1

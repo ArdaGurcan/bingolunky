@@ -1,71 +1,70 @@
-Rope Pile
-Bomb Bag
-Bomb Box
-Paste
-Spectacles
-Climbing Gloves
-Pitcher's Mitt
-Spring Shoes
-Spike Shoes
-Compass
-Alien Compass
-Parachute
-Udjat Eye
-Kapala
-Hedjet
-Crown
-Eggplant Crown
-The True Crown
-Ankh
-Tablet Of Destiny
-Skeleton Key
-Royal Jelly
-Cape
-Vlad's Cape
-Jetpack
-Telepack
-Hoverpack
-Powerpack
-Webgun
-Shotgun
-Freeze Ray
-Clone Gun
-Crossbow
-Camera
-Teleporter
-Mattock
-Boomerang
-Machete
-Excalibur
-Broken Sword
-Plasma Cannon
-Scepter
-Hou Yi's Bow
-Arrow Of Light
-Wooden Shield
-Metal Shield
-Idol
-The Tusk Idol
-Curse Pot
-Ushabti
-Eggplant
-Cooked Turkey
-Elixir
-Four-leaf Clover
-Gold Key
-Big Chest
-Metal Key
-Stone Arrow
-Metal Arrow
-Broken Arrow
-Torch
-Scrap
-Ball and Chain
-Pot of Gold
-Dice
-Eggplant Flesh
-Corpse Bag
-Crate
-Present
-Chest
-Coffin
+Rope Pile:1
+Bomb Bag:1
+Bomb Box:3
+Paste:3
+Spectacles:3
+Climbing Gloves:3
+Pitcher's Mitt:3
+Spring Shoes:3
+Spike Shoes:3
+Compass:3
+Alien Compass:8
+Parachute:1
+Udjat Eye:4
+Kapala:5
+Hedjet:6
+Crown:6
+Eggplant Crown:10
+The True Crown:10
+Ankh:6
+Tablet Of Destiny:8
+Skeleton Key:2
+Royal Jelly:4
+Cape:2
+Vlad's Cape:6
+Jetpack:6
+Telepack:6
+Hoverpack:6
+Powerpack:6
+Webgun:1
+Shotgun:1
+Freeze Ray:4
+Clone Gun:6
+Crossbow:2
+Camera:4
+Teleporter:4
+Mattock:4
+Boomerang:2
+Machete:4
+Excalibur:8
+Broken Sword:10
+Plasma Cannon:10
+Scepter:10
+Hou Yi's Bow:5
+Arrow Of Light:10
+Wooden Shield:2
+Metal Shield:5
+Idol:4
+The Tusk Idol:8
+Curse Pot:1
+Ushabti:4
+Eggplant:6
+Cooked Turkey:2
+Elixir:6
+Four-leaf Clover:1
+Gold Key:1
+Big Chest:1
+Metal Key:1
+Stone Arrow:1
+Metal Arrow:2
+Broken Arrow:1
+Torch:2
+Scrap:6
+Ball and Chain:8
+Pot of Gold:8
+Dice:5
+Eggplant Flesh:10
+Crate:1
+Present:4
+Chest:1
+Coffin:2
